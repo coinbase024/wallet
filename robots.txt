@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://coinbase024.github.io/wallet/sitemap.xml
